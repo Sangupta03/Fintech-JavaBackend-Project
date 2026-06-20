@@ -2,7 +2,7 @@
 
 A secure and scalable **Digital Wallet System** built using **Spring Boot, REST API, JWT Authentication, and MySQL**. This project simulates real-world fintech wallet operations such as user registration, authentication, wallet management, balance tracking, and transaction handling.
 
-Designed to demonstrate **backend development, authentication, database management, RESTful APIs, exception handling, and layered architecture**, making it a strong resume project for software engineering roles.
+Designed to demonstrate **backend development, authentication, database management, RESTful APIs, exception handling, and layered architecture**, making it a strong project for software engineering roles.
 
 ---
 
